@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 [![Twitter: mrghozzi](https://img.shields.io/twitter/follow/mrghozzi?style=social)](https://twitter.com/mrghozzi)
 [![Facebook: mrghozzi](https://img.shields.io/badge/mrghozzi-blue?style=social&logo=Facebook)](https://facebook.com/mr.ghozzi)
-[![Wasp: mrghozzi](https://img.shields.io/badge/wasp-mrghozzi-red?style=social&logo=Owasp)](https://www.wasp.gq/mrghozzi)
+[![Wasp: mrghozzi](https://img.shields.io/badge/wasp-mrghozzi-red?style=social&logo=Owasp)](https://www.wasp.gq/u/mrghozzi)
 
 ![mrghozzi github stats](https://github-readme-stats.vercel.app/api?username=mrghozzi&layout=compact&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrghozzi&layout=compact&show_icons=true&theme=radical&hide_border=true&langs_count=8&hide=swift,kotlin,Ruby,Objective-C)
+
+      
+    
+
+    
