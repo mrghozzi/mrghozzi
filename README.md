@@ -1,9 +1,9 @@
 <div align="center">
 
-  # ⚡ Hello, I'm Mr. Ghozzi (mrghozzi) 👋
+  # ⚡ Hi there, I'm Mr. Ghozzi (mrghozzi) 👋
 
   ### **Full-Stack Web & Mobile Developer | AI Integrator | FiveM Script Creator**
-  *Creator of [MYADS Platform](https://www.adstn.ovh) & Open-Source Tools*
+  *Creator & Lead Developer of [MYADS Ecosystem](https://www.adstn.ovh) & Open-Source Tools*
 
   <br />
 
@@ -18,35 +18,35 @@
 
 ---
 
-### 👨‍💻 About Me / عني
+### 👨‍💻 About Me
 
-مرحباً بك في ملفي الشخصي! أنا مبرمج وتطوير تطبيقات ويب وهاتف محمول، أركز على بناء المنصات المتكاملة وتدميج الذكاء الاصطناعي، وتطوير سكربتات FiveM.
+Welcome to my GitHub profile! I am a passionate Full-Stack Developer specializing in web ecosystem development, mobile applications, AI integrations, and game scripting.
 
-- 🚀 **Lead Developer & Creator** of **[MYADS](https://github.com/mrghozzi/myads)** — Social networking & ad exchange platform.
-- 📱 **Mobile Developer**: Crafting cross-platform apps with **Flutter** & **Laravel REST APIs**.
-- 🤖 **AI Enthusiast**: Integrating AI solutions (**Groq API**, **Gemini API**) into web platforms for link checking, translation, and autonomous bots.
-- 🎮 **FiveM Developer**: Creating high-quality **QBCore** Lua resources (`M4_BusJob`, `M4_GymLife`).
-- 🌐 **Privacy & Web Security**: Building cookie-less, GDPR-compliant analytics engines (`my-statistics`).
+- 🚀 **Lead Developer & Creator** of **[MYADS](https://github.com/mrghozzi/myads)** — A comprehensive social networking & ad exchange platform for webmasters.
+- 📱 **Mobile Application Developer**: Crafting sleek, high-performance cross-platform mobile apps with **Flutter** and **Laravel REST APIs (Sanctum)**.
+- 🤖 **AI Solutions Engineer**: Integrating Cutting-edge Large Language Models (**Groq API**, **Gemini API**) for automated link auditing, real-time translation, and autonomous AI community agents.
+- 🎮 **FiveM Developer**: Designing feature-rich, optimized **QBCore** Lua resources (`M4_BusJob`, `M4_GymLife`).
+- 🌐 **Privacy & Web Security**: Building cookie-less, GDPR & CCPA compliant analytics tools (`my-statistics`).
 
 ---
 
-### 🚀 Featured Projects / أبرز المشاريع
+### 🚀 Featured Projects
 
 | Project | Tech Stack | Description |
 | :--- | :---: | :--- |
-| 🌐 **[MYADS Core](https://github.com/mrghozzi/myads)** | `PHP` `Laravel` `MySQL` | المنصة الأساسية للتواصل الاجتماعي وتبادل الإعلانات بين أصحاب المواقع. |
-| 📱 **[MYADS Mobile App](https://github.com/mrghozzi/myads_app)** | `Flutter` `Dart` `Sanctum API` | التطبيق الرسمي لمنصة MYADS على الأجهزة المحمولة. |
-| 🔍 **[Link Checker AI](https://github.com/mrghozzi/link-checker)** | `PHP` `Groq API` `Blade` | فاحص ذكي يعتمد على الذكاء الاصطناعي لاكتشاف والتبليغ عن الروابط التالفة. |
-| 📊 **[My Statistics](https://github.com/mrghozzi/my-statistics)** | `PHP` `Privacy` `GDPR` | نظام تحليلات وتتبع بدون ملفات كوكيز (Cookie-less) متوافق مع GDPR و CCPA. |
-| 🤖 **[AI Member](https://github.com/mrghozzi/ai-member)** | `PHP` `AI Automation` | بوت ذكاء اصطناعي يتفاعل كعضو مستقل داخل المنصة (نشر، ردود، تعليقات). |
-| 🔤 **[Smart Post Translator](https://github.com/mrghozzi/smart-post-translator)** | `Blade` `AJAX` `Gemini/Groq` | مترجم منشورات ذكي فورس يعتمد على AI بدون إعادة تحميل الصفحة. |
-| 🛠️ **[Arabic Fixer](https://github.com/mrghozzi/arabic-fixer)** | `PHP` `MySQL` `Encoding` | أداة متخصصة لإصلاح الرموز العربية (Mojibake) عند ترقية قواعد البيانات. |
-| 🚍 **[M4_BusJob](https://github.com/mrghozzi/M4_BusJob)** | `Lua` `FiveM` `QBCore` | سكربت وظيفة حافلات متطور لـ QBCore مع مسارات GPS ديناميكية وتفاعل واقعي. |
-| 🏋️ **[M4_GymLife](https://github.com/mrghozzi/M4_GymLife)** | `Lua` `FiveM` `QBCore` | نظام لياقة وتدريب شامل لتطوير المهارات البدنية للاعبين. |
+| 🌐 **[MYADS Core](https://github.com/mrghozzi/myads)** | `PHP` `Laravel` `MySQL` | Social networking platform and ad exchange engine for website owners. |
+| 📱 **[MYADS Mobile App](https://github.com/mrghozzi/myads_app)** | `Flutter` `Dart` `Sanctum API` | Official first-party mobile client for the MYADS platform. |
+| 🔍 **[Link Checker AI](https://github.com/mrghozzi/link-checker)** | `PHP` `Groq API` `Blade` | AI-powered scanner detecting broken links across posts, ads, directory, and store. |
+| 📊 **[My Statistics](https://github.com/mrghozzi/my-statistics)** | `PHP` `Privacy` `GDPR` | Cookie-less, privacy-first analytics engine compliant with GDPR, CCPA, and DNT. |
+| 🤖 **[AI Member](https://github.com/mrghozzi/ai-member)** | `PHP` `AI Automation` | Autonomous AI agent acting as an active platform member (posts, replies, comments). |
+| 🔤 **[Smart Post Translator](https://github.com/mrghozzi/smart-post-translator)** | `Blade` `AJAX` `Gemini/Groq` | Seamless, real-time AJAX post translator powered by Gemini & Groq APIs. |
+| 🛠️ **[Arabic Fixer](https://github.com/mrghozzi/arabic-fixer)** | `PHP` `MySQL` `Encoding` | Database utility repairing Mojibake character encoding issues during MySQL upgrades. |
+| 🚍 **[M4_BusJob](https://github.com/mrghozzi/M4_BusJob)** | `Lua` `FiveM` `QBCore` | Advanced QBCore bus driver script featuring dynamic GPS routing & realistic depot mechanics. |
+| 🏋️ **[M4_GymLife](https://github.com/mrghozzi/M4_GymLife)** | `Lua` `FiveM` `QBCore` | Interactive QBCore gym and workout system for player stamina and health progression. |
 
 ---
 
-### 🛠️ Tech Stack & Skills / المهارات والتقنيات
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -61,18 +61,19 @@
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-  #### **AI & Integration**
+  #### **AI, Databases & Tools**
   ![Groq API](https://img.shields.io/badge/Groq_API-f55036?style=for-the-badge&logo=openai&logoColor=white)
   ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlecloud&logoColor=white)
   ![REST API](https://img.shields.io/badge/REST_API-009639?style=for-the-badge&logo=fastapi&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats / إحصائيات GitHub
+### 📊 GitHub Analytics
 
 <div align="center">
 
