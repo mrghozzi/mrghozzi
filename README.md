@@ -11,6 +11,7 @@
   [![Website](https://img.shields.io/badge/Website-adstn.ovh-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.adstn.ovh)
   [![Twitter/X](https://img.shields.io/badge/Twitter-@mrghozzi-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mrghozzi)
   [![Facebook](https://img.shields.io/badge/Facebook-mr.ghozzi-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mr.ghozzi)
+  [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-mrghozzi-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/mrghozzi)
   [![Patreon](https://img.shields.io/badge/Patreon-MrGhozzi-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/MrGhozzi)
   [![Ko-Fi](https://img.shields.io/badge/Ko--Fi-mrghozzi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/mrghozzi)
   [![Ba9chich](https://img.shields.io/badge/Ba9chich-MrGhozzi-00C49F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://ba9chich.com/mrghozzi)
@@ -105,6 +106,25 @@ Welcome to my GitHub profile! I am a passionate Full-Stack Developer specializin
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+---
+
+### 💖 Support & Sponsorship
+
+If you find my open-source projects, tools, or FiveM resources valuable, consider supporting my work! Your sponsorship directly helps maintain servers, fund AI API tokens, and support dedicated open-source development.
+
+<div align="center">
+
+  [![GitHub Sponsors](https://img.shields.io/badge/Sponsor_on-GitHub_Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/mrghozzi)
+  [![Support on Patreon](https://img.shields.io/badge/Support_on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/MrGhozzi)
+  [![Support on Ko-Fi](https://img.shields.io/badge/Support_on-Ko--Fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/mrghozzi)
+  [![Support on Ba9chich](https://img.shields.io/badge/Support_on-Ba9chich-00C49F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://ba9chich.com/mrghozzi)
+
+  <br />
+
+  <sub>📖 <i>Check out the full <a href="SPONSORS.md"><b>Sponsorship Guide & Tier Rewards</b></a>.</i></sub>
 
 </div>
 
